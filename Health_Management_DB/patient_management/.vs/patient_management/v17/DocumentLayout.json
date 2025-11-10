@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhama\\Downloads\\patient_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\exportToSf.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|solutionrelative:patient_management\\exportToSf.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\create_tables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|solutionrelative:patient_management\\create_tables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\create_triggers.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|solutionrelative:patient_management\\create_triggers.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\assementTable_trigger_sp.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|solutionrelative:patient_management\\assementTable_trigger_sp.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\test_database.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|solutionrelative:patient_management\\test_database.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\insert_data.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}|patient_management\\patient_management.ssmssqlproj|solutionrelative:patient_management\\insert_data.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exportToSf.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (63))",
+              "DocumentMoniker": "C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\exportToSf.sql",
+              "RelativeDocumentMoniker": "patient_management\\exportToSf.sql",
+              "ToolTip": "exportToSf.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (63))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-09T04:41:02.145Z",
+              "EditorCaption": " - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (63))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "create_triggers.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (84))",
+              "DocumentMoniker": "C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\create_triggers.sql",
+              "RelativeDocumentMoniker": "patient_management\\create_triggers.sql",
+              "ToolTip": "create_triggers.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (84))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-06T21:43:05.352Z",
+              "EditorCaption": " - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (84))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create_tables.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (82))",
+              "DocumentMoniker": "C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\create_tables.sql",
+              "RelativeDocumentMoniker": "patient_management\\create_tables.sql",
+              "ToolTip": "create_tables.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (82))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-06T21:16:57.885Z",
+              "EditorCaption": " - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (82))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "assementTable_trigger_sp.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (67))",
+              "DocumentMoniker": "C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\assementTable_trigger_sp.sql",
+              "RelativeDocumentMoniker": "patient_management\\assementTable_trigger_sp.sql",
+              "ToolTip": "assementTable_trigger_sp.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (67))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-06T21:45:41.122Z",
+              "EditorCaption": " - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (67))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_database.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (65))",
+              "DocumentMoniker": "C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\test_database.sql",
+              "RelativeDocumentMoniker": "patient_management\\test_database.sql",
+              "ToolTip": "test_database.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (65))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-06T21:53:20.727Z",
+              "EditorCaption": " - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (65))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "insert_data.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (68))",
+              "DocumentMoniker": "C:\\Users\\dhama\\Downloads\\patient_management\\patient_management\\insert_data.sql",
+              "RelativeDocumentMoniker": "patient_management\\insert_data.sql",
+              "ToolTip": "insert_data.sql - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (68))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-06T21:36:56.577Z",
+              "EditorCaption": " - localhost.mental_health_clinic (SIDDHIDHAMALE\\dhama (68))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

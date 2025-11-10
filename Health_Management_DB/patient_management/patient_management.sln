@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "patient_management", "patient_management\patient_management.ssmssqlproj", "{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBCF88A-AE55-75CD-999A-7BC8329E8AF3}.Default|Default.ActiveCfg = Default
+		{9600A8FA-714B-4122-8F75-D09BAF7C0823}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {913E8FC2-0E66-49E2-AB63-A921680DE2B4}
+	EndGlobalSection
+EndGlobal
