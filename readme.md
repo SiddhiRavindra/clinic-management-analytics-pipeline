@@ -39,7 +39,7 @@ Star schema optimized for analytics:
 
 ### 3. Power BI Dashboards
 Interactive business intelligence reporting:
-- 5 dashboard pages for different stakeholders
+- 4 dashboard pages for different stakeholders
 - 15+ DAX measures for business metrics
 - Real-time filtering and drill-through capabilities
 - Visualizations for provider performance, patient demographics, service utilization
