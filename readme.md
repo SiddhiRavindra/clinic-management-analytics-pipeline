@@ -208,12 +208,9 @@ Complete documentation available in `/07_documentation/`:
 Siddhi Dhamale  
 Data Engineering Student  
 Email: siddhidhamale@example.com  
-LinkedIn: [Your LinkedIn Profile]
+
 
 ## License
 
 This project is available under the MIT License.
 
-## Acknowledgments
-
-Developed as an extension of a technical assessment for a Data Engineering Co-op position, demonstrating comprehensive data engineering capabilities from database design through business intelligence.
